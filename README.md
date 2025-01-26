@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfujur Rahman</h1>
-<h3 align="center">Software Engineer</h3>
-
+<h3 align="center">Software Engineer from Bangladesh</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahfujurahman&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="mahfujurahman" />
 </p>
@@ -25,5 +24,13 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahfujuRahman" alt="GitHub Streak" width="420" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahfujuRahman&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=560&lines=Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
 </p>
+
