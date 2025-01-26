@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahfujuRahman" alt="GitHub Streak" width="420" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=MahfujuRahman&cache_seconds=86400" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahfujuRahman&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" />
 </p>
 
