@@ -1,8 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mahfujur Rahman</h1>
-<h3 align="center">Software Engineer from Bangladesh</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MahfujuRahman/MahfujuRahman/master/name.svg" alt="Mahfujur Rahman" />
+</h1>
+
+<h1 align="center">✨ Hi there, Beautiful People 👋 ✨</h1>
+<h3 align="center">🌍 Software Engineer | 🇧🇩 From Bangladesh</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahfujurahman&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="mahfujurahman" />
 </p>
+
+<p align="center">
+  💻 Passionate about <b>Web Development</b>, <b>Problem Solving</b>, and <b>Building Scalable Applications</b>  
+  🚀 Always exploring new technologies & improving myself every day  
+  ✨ Let’s create something amazing together!  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Laravel+%7C+Vue.js+%7C+MySQL;Love+to+learn+%26+share+knowledge;Building+SaaS+%26+Scalable+Systems" alt="Typing SVG" />
+</p>
+
 
 ---
 
